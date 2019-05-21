@@ -613,7 +613,7 @@ textarea.form-control {
 
 .btn.btn-primary-white:hover, .btn.btn-primary-white:focus, .btn.btn-primary-white:active {
   border: 2px solid #fff;
-  background: none !important;
+  background: #993333!important;
 }
 
 .btn.btn-white {
@@ -1096,7 +1096,7 @@ blockquote p {
   background-repeat: no-repeat;
   padding: 5em 0;
   line-height: 1.7;
-  background: #6c5b7b;
+  background: #993333;
 }
 
 .site-footer .heading {
@@ -2468,7 +2468,7 @@ blockquote p {
 }
 
 .block-45 {
-  background: #6c5b7b;
+  background:#993333;
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 14px;
