@@ -45,8 +45,8 @@ header {
 header .navbar-brand {
   text-transform: uppercase;
   letter-spacing: .2em;
-  font-weight: 400;
-  color: #000 !important;
+  font-weight: 800;
+  color: #fff !important;
 }
 
 header .navbar-collapse {
@@ -56,7 +56,7 @@ header .navbar-collapse {
 header .navbar {
   padding-top: 0;
   padding-bottom: 0;
-  background: #fff !important;
+  background: #000000 !important;
 }
 
 @media (max-width: 991.98px) {
@@ -88,7 +88,7 @@ header .navbar .nav-link {
   font-size: 15px;
   outline: none !important;
   opacity: 1 !important;
-  color: #000 !important;
+  color: #fff !important;
 }
 
 @media (max-width: 991.98px) {
@@ -1096,7 +1096,7 @@ blockquote p {
   background-repeat: no-repeat;
   padding: 5em 0;
   line-height: 1.7;
-  background: #993333;
+  background: #000000;
 }
 
 .site-footer .heading {
@@ -2468,7 +2468,7 @@ blockquote p {
 }
 
 .block-45 {
-  background:#993333;
+  background:#000000; 
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 14px;
